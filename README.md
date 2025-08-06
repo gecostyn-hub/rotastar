@@ -1,2 +1,2 @@
-# rotastar
-Cod RotaSTAR AI System
+# Sistemul AI RotaSTAR
+Documentație de bază.
